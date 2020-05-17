@@ -27,7 +27,21 @@
  *  21 => 'Fizz'
  *
  */
-function getFizzBuzz(/* num */) {
+function getFizzBuzz(/* n */) {
+  // const arr1 = [];
+
+  // for (let i = 1; i <= n; i += 1) {
+  //   if (i % 3 === 0 && i % 5 === 0) {
+  //     arr1.push('FizzBuzz');
+  //   } else if (i % 5 === 0) {
+  //     arr1.push('Buzz');
+  //   } else if (i % 3 === 0) {
+  //     arr1.push('Fizz');
+  //   } else arr1.push(i);
+  // }
+
+  // return arr1;
+
   throw new Error('Not implemented');
 }
 
